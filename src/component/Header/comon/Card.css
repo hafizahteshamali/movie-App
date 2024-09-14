@@ -1,0 +1,9 @@
+.card-wrapper{
+    background-color: #ccc;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 24%;
+}
+.card-wrapper h4{
+    color: #fff;
+}
